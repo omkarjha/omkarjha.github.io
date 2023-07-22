@@ -6,12 +6,12 @@
 body {
   font-size: 16px;
   color: rgba(34, 33, 33, 0.884);
-  background-color:rgba(87, 234, 250, 0.581);
+  background-color:rgba(216, 209, 1, 0.31);
   font-family: pointsoft;
 }
 
 #header-nav {
-  background-color:#999999;
+  background-color:#e56801;
   border-radius: 0;
   border: 1px;
   min-height: 70px;
@@ -63,7 +63,7 @@ body {
 .text-background {
   height: auto;
   padding: 20px 40px 20px 40px;
-  background-color:#999999;
+  background-color:whitesmoke;
   overflow: hidden;
 }
 
